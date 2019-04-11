@@ -1,4 +1,7 @@
 # hello-world
 beginner
 
-dim
+intgr
+
+ini
+aaaaa
